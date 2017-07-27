@@ -4,6 +4,7 @@ Please forgive the generic nature of the repository's name.  It is to avoid rand
 Many thanks to [Ruby in 20 mins](https://www.ruby-lang.org/en/documentation/quickstart/) for getting me on the right track
 * `lib` contains library files for classes and methods that are intended for reuse
 * `data` contains data, whether it was the originally-provided data or hand-cooked items
+* `q1.feature` is the answer for Tech Question 1
 * `q2.rb` is the solution for Tech Question 2
 * `q3.rb` is the solution for Tech Question 3
 
@@ -12,9 +13,13 @@ usage:
 ```
 git clone https://github.com/migojitux/asdf.git
 cd asdf
+cat q1.feature
 ruby q2.rb
 ruby q3.rb
 ```
+
+## Tech q1
+I have not used Cucumber before, though I have heard good things from people.  I have seen Behat in action for a limited while, and think they are rather similar.  I may have my syntax slightly wrong.  I was simply following the recipes on the [doco page](https://cucumber.io/docs/reference) without actually setting it up to run
 
 ## Tech q2
 The q2.rb solution calls into the `lib/parseResponse` method, which in turn calls into the class declaration in `lib/station`
