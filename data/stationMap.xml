@@ -1,0 +1,419 @@
+<PostcodeNearbyStationsResponse>
+  <StationTravelTimePairings>
+    <StationPairing>
+      <Station1>Oxford Circus Victoria Line</Station1>
+      <Station2>Oxford Circus Bakerloo Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Oxford Circus Central Line</Station1>
+      <Station2>Oxford Circus Bakerloo Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Oxford Circus Central Line</Station1>
+      <Station2>Oxford Circus Victoria Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Piccadilly Circus Bakerloo Line</Station1>
+      <Station2>Piccadilly Circus Piccadilly Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Charing Cross Northern Line</Station1> 
+      <Station2>Charing Cross Bakerloo Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Embankment Northern Line</Station1>
+      <Station2>Embankment Bakerloo Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Embankment Northern Line</Station1>
+      <Station2>Embankment District Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Embankment Bakerloo Line</Station1>
+      <Station2>Embankment District Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Waterloo Northern Line</Station1>
+      <Station2>Waterloo Jubilee Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Waterloo Northern Line</Station1>
+      <Station2>Waterloo Bakerloo Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Waterloo Jubilee Line</Station1>
+      <Station2>Waterloo Bakerloo Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Elephant &amp; Castle Bakerloo Line</Station1>
+      <Station2>Elephant &amp; Castle Northern Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Bond Street Jubilee Line</Station1>
+      <Station2>Bond Street Central Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Tottenham Court Road Northern Line</Station1>
+      <Station2>Tottenham Court Road Central Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Holborn Piccadilly Line</Station1>
+      <Station2>Holborn Central Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Bank Central Line</Station1>
+      <Station2>Bank Northern Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Bank Central Line</Station1>
+      <Station2>Monument District Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Green Park Jubilee Line</Station1>
+      <Station2>Green Park Victoria Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Green Park Jubilee Line</Station1>
+      <Station2>Green Park Piccadilly Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Green Park Victoria Line</Station1>
+      <Station2>Green Park Piccadilly Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Victoria Victoria Line</Station1>
+      <Station2>Victoria District Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Stockwell Victoria Line</Station1>
+      <Station2>Stockwell Northern Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Leicester Square Northern Line</Station1>
+      <Station2>Leicester Square Piccadilly Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Westminster Jubilee Line</Station1>
+      <Station2>Wesminster District Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>London Bridge Northern Line</Station1>
+      <Station2>London Bridge Jubilee Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Monument Northern Line</Station1>
+      <Station2>Monument District Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Regents Park Bakerloo Line</Station1>
+      <Station2>Oxford Circus Bakerloo Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Oxford Circus Bakerloo Line</Station1>
+      <Station2>Piccadilly Circus Bakerloo Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Piccadilly Circus Bakerloo Line</Station1>
+      <Station2>Charing Cross Bakerloo Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Charing Cross Bakerloo Line</Station1>
+      <Station2>Embankment Bakerloo Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Embankment Bakerloo Line</Station1>
+      <Station2>Waterloo Bakerloo Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Waterloo Bakerloo Line</Station1>
+      <Station2>Lambeth North Bakerloo Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Lambeth North Bakerloo Line</Station1>
+      <Station2>Elephant &amp; Castle Bakerloo Line</Station2>
+          <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Bond Street Central Line</Station1>
+      <Station2>Oxford Circus Central Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Oxford Circus Central Line</Station1>
+      <Station2>Tottenham Court Road Central Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Tottenham Court Road Central Line</Station1>
+      <Station2>Holborn Central Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Holborn Central Line</Station1>
+      <Station2>Chancery Lane Central Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Chancery Lane Central Line</Station1>
+      <Station2>St Pauls Central Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>St Pauls Central Line</Station1>
+      <Station2>Bank Central Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Bank Central Line</Station1>
+      <Station2>Liverpool Street Central Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Oxford Circus Victoria Line</Station1>
+      <Station2>Green Park Victoria Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Green Park Victoria Line</Station1>
+      <Station2>Victoria Victoria Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Victoria Victoria Line</Station1>
+      <Station2>Pimlico Victoria Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Pimlico Victoria Line</Station1>
+      <Station2>Vauxhall Victoria Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Vauxhall Victoria Line</Station1>
+      <Station2>Stockwell Victoria Line</Station2>
+          <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Hyde Park Corner Piccadilly Line</Station1>
+      <Station2>Green Park Piccadilly Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Green Park Piccadilly Line</Station1>
+      <Station2>Piccadilly Circus Piccadilly Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Piccadilly Circus Piccadilly Line</Station1>
+      <Station2>Leicester Square Piccadilly Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Leicester Square Piccadilly Line</Station1>
+      <Station2>Covent Garden Piccadilly Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Covent Garden Piccadilly Line</Station1>
+      <Station2>Holborn Piccadilly Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Holborn Piccadilly Line</Station1>
+      <Station2>Russell Square Piccadilly Line</Station2>
+          <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Bond Street Jubilee Line</Station1>
+      <Station2>Green Park Jubilee Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Green Park Jubilee Line</Station1>
+      <Station2>Westminster Jubilee Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Westminster Jubilee Line</Station1>
+      <Station2>Waterloo Jubilee Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Waterloo Jubilee Line</Station1>
+      <Station2>Southwark Jubilee Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Southwark Jubilee Line</Station1>
+      <Station2>London Bridge Jubilee Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>London Bridge Jubilee Line</Station1>
+      <Station2>Bermondsey Jubilee Line</Station2>
+          <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Sloane Square District Line</Station1>
+      <Station2>Victoria District Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Victoria District Line</Station1>
+      <Station2>St James Park District Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>St James Park District Line</Station1>
+      <Station2>Westminster District Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Westminster District Line</Station1>
+      <Station2>Embankment District Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Embankment District Line</Station1>
+      <Station2>Temple District Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Temple District Line</Station1>
+      <Station2>Blackfriars District Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Blackfriars District Line</Station1>
+      <Station2>Mansion House District Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Mansion House District Line</Station1>
+      <Station2>Cannon Street District Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Cannon Street District Line</Station1>
+      <Station2>Monument District Line </Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Monument District Line </Station1>
+      <Station2>Tower Hill District Line</Station2>
+          <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Goodge Street Northern Line</Station1>
+      <Station2>Tottenham Court Road Northern Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Tottenham Court Road Northern Line</Station1>
+      <Station2>Leicester Square Northern Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Leicester Square Northern Line</Station1>
+      <Station2>Charing Cross Northern Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Charing Cross Northern Line</Station1>
+      <Station2>Embankment Northern Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Embankment Northern Line</Station1>
+      <Station2>Waterloo Northern Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Waterloo Northern Line</Station1>
+      <Station2>Kennington Northern Line Charing</Station2>
+          <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Old Street Northern Line</Station1>
+      <Station2>Moorgate Northern Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Moorgate Northern Line</Station1>
+      <Station2>Bank Northern Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Bank Northern Line</Station1>
+      <Station2>Monument Northern Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Monument Northern Line</Station1>
+      <Station2>London Bridge Northern Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>London Bridge Northern Line</Station1>
+      <Station2>Borough Northern Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Borough Northern Line</Station1>
+      <Station2>Elephant &amp; Castle Northern Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Elephant &amp; Castle Northern Line</Station1>
+      <Station2>Kennington Northern Line Bank</Station2>
+          <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Kennington Northern Line Charing</Station1>
+      <Station2>Kennington Northern Line Bank</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Kennington Northern Line Bank</Station1>
+      <Station2>Oval Northern Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+    <StationPairing>
+      <Station1>Oval Northern Line</Station1>
+      <Station2>Stockwell Northern Line</Station2>
+      <TravelTime units="minutes">3.6</TravelTime>
+    </StationPairing>
+  </StationTravelTimePairings>
+</PostcodeNearbyStationsResponse>
