@@ -24,10 +24,8 @@ def parseStationMap(filename = "data/stationMap.xml")
   # pass 2: Link all the stations according to their weighted distance
   root.each_element('//StationPairing') {
     |s| graph.connect_mutually s.elements["Station1"].text, s.elements["Station2"].text, s.elements["TravelTime"].text.to_f
-    
   }
 
+  # return the resulting graph object
   graph
 end
-
-  
