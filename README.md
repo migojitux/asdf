@@ -2,8 +2,8 @@
 Please forgive the generic nature of the repository's name.  It is to avoid random lookups by people searching for it
 
 Many thanks to [Ruby in 20 mins](https://www.ruby-lang.org/en/documentation/quickstart/) for getting me on the right track
-* `lib` contains library files for classes and methods that are intended for reuse
-* `data` contains data, whether it was the originally-provided data or hand-cooked items
+* `lib/` contains library files for classes and methods that are intended for reuse
+* `data/` contains data, whether it was the originally-provided data or hand-cooked items
 * `q1.feature` is the answer for Tech Question 1
 * `q2.rb` is the solution for Tech Question 2
 * `q3.rb` is the solution for Tech Question 3
